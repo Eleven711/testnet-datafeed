@@ -16,5 +16,6 @@
         "amount" : 10
     },
     "assets" : [
-    ]
+    ],
+    "alertupgrade" : 5000000
 }
